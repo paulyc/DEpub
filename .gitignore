@@ -1,0 +1,9 @@
+*.zip
+dec
+enc
+*.xml
+iv
+key
+key.enc
+license.key.der
+*.flate
