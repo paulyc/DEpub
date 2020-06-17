@@ -7,3 +7,4 @@ key
 key.enc
 license.key.der
 *.flate
+puff/
